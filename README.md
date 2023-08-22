@@ -1,2 +1,2 @@
 # SQL_Practice
-For SQL Practice
+* This repository includes notebooks or files used for practicing SQL queries.
